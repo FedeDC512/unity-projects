@@ -1,2 +1,5 @@
 # unity-projects
-Collection of Projects from the "Unity Junior Programmer Pathway" done during the 3D Game Development 2023 course at University of Debrecen
+
+<a href="https://learn.unity.com/pathway/junior-programmer" target="_blank">
+  <img src="https://images.credly.com/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" alt="Junior Programmer Pathway" style="width:20%;height:auto;">
+</a>
