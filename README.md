@@ -8,11 +8,15 @@ Collection of Unity Projects completed as part of the "Unity Junior Programmer P
   </a>
 </p>
 
-### Unit 1: Simple Car Game
+### Prototype 1: Simple Car Game ([Unit 1 - Player Control](https://learn.unity.com/project/unit-1-driving-simulation))
 In this project, I developed a simple car game where the player controls a car moving side-to-side on a floating road, avoiding or hitting obstacles. This unit focused on basic Unity editor usage, C# scripting, and foundational programming concepts like functions and variables.
 
-### Unit 2: Animal Feeder Game
+### Prototype 2: Animal Feeder Game ([Unit 2 - Basic Gameplay](https://learn.unity.com/project/unit-2-basic-gameplay))
 This project involves a top-down game where the player throws food to hungry animals charging towards them. Key concepts covered include if-then statements, random value generation, arrays, collision detection, prefabs, and instantiation. The game demonstrates basic projectile mechanics and player movement.
 
-### Unit 3: Endless Runner Game
+### MidTerm: Animal Feeder Game 2.0
+
+### Prototype 3: Endless Runner Game ([Unit 3 - Sound and Effects](https://learn.unity.com/project/unit-3-sound-and-effects))
 In this project, I created an endless side-scrolling runner game where the player must jump over obstacles to avoid crashing. The unit introduced adding music and sound effects, creating dynamic endless backgrounds, and incorporating particle effects for a more engaging gameplay experience.
+
+### Test Practice: 
