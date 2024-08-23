@@ -1,5 +1,22 @@
-# unity-projects
+# Unity Projects: Junior Programmer Pathway
 
-<a href="https://learn.unity.com/pathway/junior-programmer" target="_blank">
-  <img src="https://images.credly.com/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" alt="Junior Programmer Pathway" style="width:20%;height:auto;">
-</a>
+Collection of Unity Projects completed as part of the "Unity Junior Programmer Pathway" during the 3D Game Development 2023 course at University of Debrecen. Each project represents a complete game developed in different units, showcasing the skills and concepts learned along the way.
+
+<p align="center">
+  <a href="https://learn.unity.com/pathway/junior-programmer" target="_blank">
+    <img src="https://images.credly.com/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" alt="Junior Programmer Pathway" style="width:200px;height:auto;">
+  </a>
+</p>
+
+### Prototype 1: Simple Car Game ([Unit 1 - Player Control](https://learn.unity.com/project/unit-1-driving-simulation))
+In this project, I developed a simple car game where the player controls a car moving side-to-side on a floating road, avoiding or hitting obstacles. This unit focused on basic Unity editor usage, C# scripting, and foundational programming concepts like functions and variables.
+
+### Prototype 2: Animal Feeder Game ([Unit 2 - Basic Gameplay](https://learn.unity.com/project/unit-2-basic-gameplay))
+This project involves a top-down game where the player throws food to hungry animals charging towards them. Key concepts covered include if-then statements, random value generation, arrays, collision detection, prefabs, and instantiation. The game demonstrates basic projectile mechanics and player movement.
+
+### MidTerm: Animal Feeder Game 2.0
+
+### Prototype 3: Endless Runner Game ([Unit 3 - Sound and Effects](https://learn.unity.com/project/unit-3-sound-and-effects))
+In this project, I created an endless side-scrolling runner game where the player must jump over obstacles to avoid crashing. The unit introduced adding music and sound effects, creating dynamic endless backgrounds, and incorporating particle effects for a more engaging gameplay experience.
+
+### Test Practice: 
