@@ -14,8 +14,8 @@ In this project, I developed a simple car game where the player controls a car m
 ## Prototype 2: Animal Feeder Game ([Unit 2 - Basic Gameplay](https://learn.unity.com/project/unit-2-basic-gameplay))
 This project involves a top-down game where the player throws food to hungry animals charging towards them. Key concepts covered include if-then statements, random value generation, arrays, collision detection, prefabs, and instantiation. The game demonstrates basic projectile mechanics and player movement.
 
-## MidTerm: Animal Feeder Remix
-The MidTerm project is an enhanced version of the Animal Feeder Game. In this version, different animals require specific foods, and the player must ensure the correct food is thrown. Additionally, player movement is inverted, and they must find an antidote to restore normal control. The player has three lives, which are lost if animals escape the screen or are fed the wrong food.
+## Mid Term: Animal Feeder Remix
+The Mid Term project is an enhanced version of the Animal Feeder Game. In this version, different animals require specific foods, and the player must ensure the correct food is thrown. Additionally, player movement is inverted, and they must find an antidote to restore normal control. The player has three lives, which are lost if animals escape the screen or are fed the wrong food.
 
 ## Prototype 3: Endless Runner Game ([Unit 3 - Sound and Effects](https://learn.unity.com/project/unit-3-sound-and-effects))
 In this project, I created an endless side-scrolling runner game where the player must jump over obstacles to avoid crashing. The unit introduced adding music and sound effects, creating dynamic endless backgrounds, and incorporating particle effects for a more engaging gameplay experience.
