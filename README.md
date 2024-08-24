@@ -12,11 +12,11 @@ For a detailed breakdown of updates, changes, and submitted Unity packages after
 
 ## Table of Contents
 - [Car Game with Multiplayer Mode](#prototype-1-car-game-with-multiplayer-mode-unit-1---player-control)
-- [Space Chickens](#prototype-2)
-- [Hero vs Slime](#test-practice)
-- [Enhanced Animal Feeder Game](#mid-term)
-- [Endless Runner Game](#prototype-3)
-- [Small Animals' Worth](#final-project)
+- [Space Chickens](#prototype-2-space-chickens-unit-2---basic-gameplay)
+- [Hero vs Slime](#test-practice-hero-vs-slime)
+- [Enhanced Animal Feeder Game](#mid-term-enhanced-animal-feeder-game)
+- [Endless Runner Game](#prototype-3-endless-runner-game-unit-3---sound-and-effects)
+- [Small Animals' Worth](#final-project-small-animals-worth)
 
 ## Prototype 1: Car Game with Multiplayer Mode ([Unit 1 - Player Control](https://learn.unity.com/project/unit-1-driving-simulation))
 In this project, I created a simple car game where the player controls a blue car moving side-to-side on a floating road, avoiding obstacles. The main camera follows the car and can shift position with the left CTRL key, adjusting slightly with the car's rotation. I also added green cars that move towards the player, scattered obstacles with rigid bodies, and a multiplayer mode. Pressing "1" splits the screen for two players, each with their own controls and camera. On-screen instructions update dynamically depending on whether multiplayer is active. 
@@ -51,5 +51,7 @@ The unit introduced adding music and sound effects, creating dynamic endless bac
 
 ## Final Project: [Small Animals' Worth](https://github.com/FedeDC512/SmallAnimalsWorth)
 Small Animals' Worth is the Final Project I developed for the course. In this game, tiny animals battle against larger ones across three progressively harder levels, each with a different theme and animals. Players can choose to heal or attack while facing opponents with three types of attacks: regular health reduction, bullet hell dodging with objects, and summoning attacks that trigger more bullet hell challenges. The goal is to reduce the enemy's health bar to zero to win. This project integrates advanced Unity concepts, including complex enemy behavior, level progression, and strategic gameplay mechanics.
+
+The full project and code are available in a separate repository. You can find the complete project [here](https://github.com/FedeDC512/SmallAnimalsWorth).
 
 ![Level.gif](https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Level.gif)
