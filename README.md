@@ -10,6 +10,14 @@ For a detailed breakdown of updates, changes, and submitted Unity packages after
   </a>
 </p>
 
+## Table of Contents
+- [Car Game with Multiplayer Mode](#Prototype-1)
+- [Space Chickens](#Prototype-2)
+- [Hero vs Slime](#Test-Practice)
+- [Enhanced Animal Feeder Game](#Mid-Term)
+- [Endless Runner Game](#Prototype-3)
+- [Small Animals' Worth](#Final-Project)
+
 ## Prototype 1: Car Game with Multiplayer Mode ([Unit 1 - Player Control](https://learn.unity.com/project/unit-1-driving-simulation))
 In this project, I created a simple car game where the player controls a blue car moving side-to-side on a floating road, avoiding obstacles. The main camera follows the car and can shift position with the left CTRL key, adjusting slightly with the car's rotation. I also added green cars that move towards the player, scattered obstacles with rigid bodies, and a multiplayer mode. Pressing "1" splits the screen for two players, each with their own controls and camera. On-screen instructions update dynamically depending on whether multiplayer is active. 
 
