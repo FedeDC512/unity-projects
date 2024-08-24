@@ -10,7 +10,7 @@ For a detailed breakdown of updates, changes, and submitted Unity packages after
   </a>
 </p>
 
-## Table of Contents
+## Game Projects List
 - [Car Game with Multiplayer Mode](#prototype-1-car-game-with-multiplayer-mode-unit-1---player-control)
 - [Space Chickens](#prototype-2-space-chickens-unit-2---basic-gameplay)
 - [Hero vs Slime](#test-practice-hero-vs-slime)
