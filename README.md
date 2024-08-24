@@ -52,6 +52,6 @@ The unit introduced adding music and sound effects, creating dynamic endless bac
 ## Final Project: [Small Animals' Worth](https://github.com/FedeDC512/SmallAnimalsWorth)
 Small Animals' Worth is the Final Project I developed for the course. In this game, tiny animals battle against larger ones across three progressively harder levels, each with a different theme and animals. Players can choose to heal or attack while facing opponents with three types of attacks: regular health reduction, bullet hell dodging with objects, and summoning attacks that trigger more bullet hell challenges. The goal is to reduce the enemy's health bar to zero to win. This project integrates advanced Unity concepts, including complex enemy behavior, level progression, and strategic gameplay mechanics.
 
-The full project and code are available in a separate repository. You can find the complete project [here](https://github.com/FedeDC512/SmallAnimalsWorth).
+> The full project and code are available in a separate repository. You can find the complete project [here](https://github.com/FedeDC512/SmallAnimalsWorth).
 
 ![Level.gif](https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Level.gif)
