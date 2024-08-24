@@ -1,6 +1,6 @@
 # Unity Projects: Junior Programmer Pathway
 
-Collection of Unity Projects completed as part of the "Unity Junior Programmer Pathway" during the 3D Game Development 2023 course at University of Debrecen, led by [Dr. Kruppa Kinga Tünde](https://inf.unideb.hu/en/dr-kinga-tunde-kruppa). Each project represents a complete game developed in different units, showcasing the skills and concepts learned along the way.
+Collection of Unity Projects completed as part of the "Unity Junior Programmer Pathway" during the 3D Game Development course at University of Debrecen, led by [Dr. Kruppa Kinga Tünde](https://inf.unideb.hu/en/dr-kinga-tunde-kruppa), from February 2023 to June 2023. Each project represents a complete game developed in different units, showcasing the skills and concepts learned along the way.
 
 For a detailed breakdown of updates, changes, and submitted Unity packages after each lesson, please refer to the [ChangeLogs](https://github.com/FedeDC512/unity-projects/blob/main/ChangeLogs.md). This log provides a detailed timeline of all updates made throughout the course, with each unitypackage linked to its corresponding submission date.
 
