@@ -11,7 +11,7 @@ For a detailed breakdown of updates, changes, and submitted Unity packages after
 </p>
 
 ## Table of Contents
-- [Car Game with Multiplayer Mode](#Prototype-1:-Car-Game-with-Multiplayer-Mode-(Unit-1---Player-Control))
+- [Car Game with Multiplayer Mode](#Prototype-1:-Car-Game-with-Multiplayer-Mode)
 - [Space Chickens](#prototype-2)
 - [Hero vs Slime](#test-practice)
 - [Enhanced Animal Feeder Game](#mid-term)
