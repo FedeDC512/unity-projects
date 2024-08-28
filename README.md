@@ -54,4 +54,4 @@ Small Animals' Worth is the Final Project I developed for the course. In this ga
 
 > The full project and code are available in a separate repository. You can find the complete project [here](https://github.com/FedeDC512/SmallAnimalsWorth).
 
-![Level.gif](https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Level.gif)
+![level.gif](https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/level.gif)
